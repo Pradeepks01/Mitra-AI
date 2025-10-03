@@ -44,7 +44,7 @@ MitraAi_server/
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd python_server
+   cd MitraAi_server
    ```
 
 2. **Install Dependencies**:
