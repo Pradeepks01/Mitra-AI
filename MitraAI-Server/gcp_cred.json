@@ -10,18 +10,3 @@
   "client_x509_cert_url": ",
   "universe_domain": "googleapis.com"
   }
-
-  
-  // {
-//   "type": "service_account",
-//   "project_id": "vertex-ai-client-472610",
-//   "private_key_id": "ee8b7a40d65867937958bacaf98b6fbe1ae71408",
-//   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCm6kljTFJOucEG\nKgbDPcTlQSh1okGn76WNz8cT5egkJCqzan+EpE8FX6EhVn9EdVM3KLowXf2rWM6v\nsfK2KFMMQxrpfdUckcYSW3biT1snjUMAhRQbsA1NoxLbBvj6IiaSjyyd/EvWeHkD\n5VtE2XtFj5rjC6ek8DF38uQsgDxpav1A19MMx+nH7ZqrBmObB8RWe9IrFBDb7rjC\niEqve6DCgnIrs8XLuLkmKp1uFb/nkPGj6q26ZmQ6iirEx3hwldaxdkZ7lm2VtwCQ\nEe78Q3iyyT3+zDFtqsYD62RN9Zl+1o0RXx30a82bWMcSl8u8yHebcChP3dBiPbMj\n9NgnF1MrAgMBAAECggEANJy9xCxu9zyq4JgHqKwEL6UhrS6XVml9/BzFqfp6eUXj\nJcmIZ1VpSQ7TGdCLbhczQzw1sAA4cLWd9Jh5IjzErKVMStPshERYtDmbWAtedrGa\nsIPCClYsY0/nJh3lBecU1HaHwEah2vj/YCB/68xHhG4XCsEGN0G0vhPUI0jKggmC\ndjHHTCpCR8vxv1AEJWxPsqfOYYnqDB4DU3d2HErtawxfSSlIXNBkNopdF/TRfpfX\ni/Tjt/AAT63fT174QYleR5/VlvS9Mq/fbmIUJOUaUmnxObAoPz2TD6V+VosZzbex\nOWwxMbXIitx4ZzMJ1ZSAOEIrJAmciH+hx41P59RxKQKBgQDRNusKituYmvKBjG7Q\n7MUHf7ddoRpUOK7AuVWit7UDsmqYZPytStsVgblvvHYNC4qkAe4IzBs/J9hCrbMq\nx4c1UfUkejNVEBNxw2rMFEWr9Za6KLf2doZaU2BAUxHPhqWgBsUOTIVSpcmQ4Inn\nJCf6y/DYe8hiMEOu3UqasPZzAwKBgQDMPdJ3uIyJEMwcbmwB376uQNXnTwbJAuUp\nsXxZBIiWAwPwFrPOIMbS+glrerac+ande3ceO0+PSBFMeSz09ED9bOMTNhUgOZWt\nOFaT9T4CYVPntN/g7aOtLPCPzSSvRZuSNV6jIQHYog7W+ZT6XlcjZQ8HrRyxDt9g\nGL/SgvgSuQKBgQCxt0rU+7sp2IUjEp2Xj2iWxCCIwi7RWAzp3QUnYZG8ADSYG0Cg\nG7QagsV4asiEsEcmphUDGA4VCc2kZlSJhFAQNPxd7gfou+0od+0iSh4cwlM08x3B\nmFDsLWLXgTjh5eiPFPETAmFGIVolXPcHhykG23JNEmjXL1RvF78lxCi07QKBgEnE\n3pr9Xk03cvGl9H7syJt5sYjdY08BK7JWd9pTJ94+8pIqMQF3lzimtPZMGV8zUeY8\nbPbPZ1oSJqVfcxx6iGrAhHfw5cqA4g3xtlu0jZQggUTEcMR2MNMg0zatWt2vn5Q8\nkJUNG/SZ/BArj2Kq5oBTRQ15uk49V/MGnWo0gdOJAoGBAMmQOp2qmQaOLxUa3ZAy\nE8IyAgIc8s6hDOV7WsreRXuRyU1YpEIfw0iGq7lIaTRuUNlfnP0nveQvluDMfwdE\naE9kjQ6MgJJRZ5aNNdfK6rq2dFUgucVnCgYqnKAgExyvwIeaMrVGGIp/B4kYdfDP\nWV9289r4MTJiPegabJDQuFJp\n-----END PRIVATE KEY-----\n",
-//   "client_email": "vertex-ai-client@vertex-ai-client-472610.iam.gserviceaccount.com",
-//   "client_id": "112461184399914869311",
-//   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-//   "token_uri": "https://oauth2.googleapis.com/token",
-//   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-//   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai-client%40vertex-ai-client-472610.iam.gserviceaccount.com",
-//   "universe_domain": "googleapis.com"
-// }
